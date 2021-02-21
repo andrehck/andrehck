@@ -1,4 +1,6 @@
-### Hi there, I'm André 👋👋👋
+### Hi there, I'm André 👋👋👋   
+### Future SRE ###
+
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dediferreiraa?color=1DA1F2&logo=twitter&style=for-the-badge)
 
@@ -11,7 +13,6 @@ André Ferreira, 27, admirer and thankful for everything that Open Source contri
 - Troubleshooting. 🔭
 - Fun Facts with Linux. ⚡
 - Open-source, K8S and Go.
-
 
 
 ### Connect with me
