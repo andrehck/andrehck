@@ -1,11 +1,13 @@
 ### Hi there, I'm André 👋👋👋   
-### Future DEV ###
+### Future SRE ###
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dediferreiraa?color=1DA1F2&logo=twitter&style=for-the-badge)
 
 
-André Ferreira, 28, admirer and thankful for everything that Open Source contributed to my career! My day-to-day of work and study is divided between bash terminal, grafana, zabbix, prometheus, kibana, golang, k8s and gcp. 
+André Ferreira, 28, admirer and thankful for everything that Open Source contributed to my career!
+I hold a degree in computers network. During the course, I learned about high avalability, Troubleshooting in critical system, SLA, SLO, SLI'S and calcule Budget error, Monitoring system with zabbix, grafana, prometheus and other as new relic; Create scripts of automation with golang and a little of python. A part from these, I attended trainings on specific topics such as Kubernetes, Linux Engineer, Git Lab CI, Ansible and Terraform.
+In parallel, I have been working as a technical analyst, network administrator, infrastructure engineer and informartion security analyst for the last twelve years.
 
 
 ## I like
