@@ -1,5 +1,4 @@
 ### Hi there, I'm André 👋👋👋   
-### Future SRE ###
 
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/dediferreiraa?color=1DA1F2&logo=twitter&style=for-the-badge)
